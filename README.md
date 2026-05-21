@@ -1,4 +1,3 @@
-@"
 # CIFAR-10 CNN Classifier
 
 Image classification project using CNN models and the CIFAR-10 dataset.
